@@ -1,0 +1,12 @@
+Api  google maps
+https://console.developers.google.com/apis/credentials?project=licenta-220915
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_login_form_modal
+https://www.w3schools.com/howto/howto_css_login_form.asp
+http://localhost:10080/Tema_SEAL_APP1/Tema_SEAL_APP/acordeon.php
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_document_lastmodified
+https://www.flaticon.com/search?word=email
+http://form.guide/php-form/php-registration-form.html
+https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php
+
+https://www.romedic.ro/fara-o-parte-din-antebrat-revine-in-formula-1-la-8-ani-de-la-groaznicul-accident-0N69712
